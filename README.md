@@ -60,5 +60,8 @@ sentiment-analysis/
 ├── requirements.txt           # dependencies
 └── README.md                  # readme
 ---
+## Dataset
 
+The original dataset is not included in this repository because it exceeds GitHub's file size limits. A smaller sample dataset can be provided, or the dataset can be downloaded separately.
+---
 ## 👨‍💻 Built by Apoorva.R
