@@ -36,7 +36,7 @@ Every second, thousands of tweets are posted expressing opinions, emotions, and 
 
 | Metric | Score |
 |--------|-------|
-| Macro F1 Score | **0.XX** |
+| Macro F1 Score | **0.756** |
 | Model | Logistic Regression |
 | Features | TF-IDF (5000 features) |
 
