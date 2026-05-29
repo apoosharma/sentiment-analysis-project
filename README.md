@@ -36,7 +36,7 @@ Every second, thousands of tweets are posted expressing opinions, emotions, and 
 
 | Metric | Score |
 |--------|-------|
-| Macro F1 Score | **0.756** |
+| Macro F1 Score | **0.734** |
 | Model | Logistic Regression |
 | Features | TF-IDF (5000 features) |
 
@@ -52,13 +52,6 @@ pip install -r requirements.txt
 jupyter notebook sentiment_analysis.ipynb
 
 ```
-## 📁 Project structure
-
-sentiment-analysis/
-├── sentiment_analysis.ipynb   # main notebook
-├── tweets.csv                 # dataset
-├── requirements.txt           # dependencies
-└── README.md                  # readme
 ---
 ## Dataset
 
